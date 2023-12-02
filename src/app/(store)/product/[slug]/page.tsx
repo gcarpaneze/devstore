@@ -108,5 +108,3 @@ export default async function Product({ params }: ProductProps) {
     </div>
   )
 }
-
-//
